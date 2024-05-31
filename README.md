@@ -6,7 +6,7 @@ I am proficient in multiple programming languages including Java, C, Python, and
 
 I am passionate about software development and optimizing algorithms for better user experiences. I am seeking opportunities where I can further develop my skills and contribute to impactful projects.
 
-📫 How to reach me **nlee1025@gmail.com**
+📫 How to reach me: **nlee1025@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
