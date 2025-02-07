@@ -1,6 +1,6 @@
 <h4 align="left">Senior Computer Science Major @ George Mason University | Java, C, Python, Javascript, SQL | Self-motivated Software Developer</h4>
 
-Hello, my name is Andy Lee. I am currently a senior at George Mason University, pursuing a Bachelor of Science in Computer Science with an expected graduation date in December 2024.
+Hello, my name is Andy Lee. I am a recent computer scinece graduate from George Mason University, eager to contribute my technical skills and knowledge to innovative projects in the tech industry.
 
 I am proficient in multiple programming languages including Java, C, Python, and JavaScript. Additionally, I have experience with web development technologies like HTML, and I am familiar with database management using SQL and MongoDB.
 
