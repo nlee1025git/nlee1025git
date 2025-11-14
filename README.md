@@ -2,7 +2,7 @@
 
 Hello, my name is Andy Lee. I am a recent Computer Scinece Graduate from George Mason University, eager to contribute my technical skills and knowledge to innovative projects in the tech industry.
 
-I am proficient in multiple programming languages including Java, C, Python, and JavaScript. Additionally, I have experience with web development technologies like HTML, and I am familiar with database management using SQL and MongoDB.
+I am proficient in multiple programming languages including Java, Python, C, and JavaScript. Additionally, I have experience with web development technologies like HTML, and I am familiar with database management using SQL and MongoDB.
 
 I am passionate about software development and optimizing algorithms for better user experiences. I am seeking opportunities where I can further develop my skills and contribute to impactful projects.
 
