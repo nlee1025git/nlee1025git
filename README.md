@@ -1,4 +1,4 @@
-<h4 align="left">Recent Computer Science Graduate from George Mason University | Java, C, Python, Javascript, SQL | Self-motivated Software Developer</h4>
+<h4 align="left">Recent Computer Science Graduate from George Mason University | Java, Python, C, Javascript, SQL | Self-motivated Software Developer</h4>
 
 Hello, my name is Andy Lee. I am a recent Computer Scinece Graduate from George Mason University, eager to contribute my technical skills and knowledge to innovative projects in the tech industry.
 
